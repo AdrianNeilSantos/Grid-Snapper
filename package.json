@@ -1,0 +1,23 @@
+{
+  "name": "com.adrian-santos.grid-snapper",
+  "version": "1.0.0",
+  "displayName": "Grid Snapper",
+  "description": "Grid Snapper is a powerful Unity editor tool that allows you to easily snap objects to a grid in both Cartesian and Polar coordinate systems. With Grid Snapper, you can quickly align your objects to create precise layouts, align objects along radial angles, and maintain a clean and organized scene. The tool provides intuitive controls for changing grid size, opacity, and appearance to suit your needs. It's perfect for level designers, environment artists, and anyone who needs precise positioning and alignment of objects in their Unity projects.",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Adrian Neil Santos",
+    "email": "adrianneilsantos@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "license": "MIT",
+  "type": "tool"
+}
